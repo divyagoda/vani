@@ -1,0 +1,26 @@
+1) What is cloud computing ?  what are the features of cloud computing ?
+2) What is private cloud ? give example
+3) What is public cloud ? give example
+4) What is kernel
+5) Explain linux boot process
+6) Explain Linux root file system (usr, sbin, bin, lib, lib64, var, home, opt, boot, dev, etc, tmp)
+7) What is vpn/open-vpn (why do we use it)
+8) what is the difference between open-source and propretary (give example)
+9) Who is Linux torwald ?
+10) what is DNS service.
+11) How to you check(using command) whether your machine has internet connection ?
+12) which command is used to check your machines IP address
+13) which command is used to list files sorted in modified time
+14) which command is used to search for perticular file in your laptop
+15) which command is used to create, delete files and directory
+16) How to yor extract and archieve directories using tar command
+17) Give grep command example to search for a string "hey" in a file
+18) Give ssh command example
+19) which command used to display present directory
+20) Schedule a crontab job which should run for every day at 5o clock
+21) Restart httpd in your machine
+22) Display all process using command
+23) which command is used to display resource utilization and free memory and disk usage
+24) which command is used to kill a process, give eg
+25) Give eg command for following
+cp, mv, cat, chmod, chown, passwd, ifconfig,uname, tail, head, ping, wget, date
